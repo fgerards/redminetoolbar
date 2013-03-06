@@ -9,16 +9,16 @@
 
     <vbox id="RedmineToolbar-About-Details">
         <hbox>
-            <description class="RedmineToolbar-About-Name">Redmine Toolbar</description>
-            <description class="RedmineToolbar-About-Name">0.8.3</description>
+            <description class="RedmineToolbar-About-Name">Redmine Toolbar Patched</description>
+            <description class="RedmineToolbar-About-Name">0.8.3-patched</description>
         </hbox>
         <description value="&redminetoolbar.about.author;" class="RedmineToolbar-About-Title"/>
         <description>Michael Pietsch</description>
         <description value="Homepage" class="RedmineToolbar-About-Title"/>
-        <label href="http://www.mpietsch.com/redminetoolbar" class="text-link"
-               value="http://www.mpietsch.com/redminetoolbar"/>
-        <label href="https://addons.mozilla.org/de/firefox/addon/redmine-toolbar" class="text-link"
-               value="https://addons.mozilla.org/de/firefox/addon/redmine-toolbar/"/>
+        <label href="http://www.former03.de" class="text-link"
+               value="http://www.former03.de"/>
+        <label href="https://www.former03.de" class="text-link"
+               value="https://www.former03.de/"/>
         <separator class="groove"/>
         <description value="&redminetoolbar.about.contributors;" class="RedmineToolbar-About-Title"/>
         <hbox>
