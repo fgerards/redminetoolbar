@@ -328,7 +328,7 @@ var RedmineToolbar= {
     if (event.keyCode == 13) {
         var host = RedmineToolbar.getProjectUrl();
         var currProj = RedmineToolbar.getPref('currentproject');
-        url = host + "/" + currProj + "/search?q=" + document.getElementById("RedmineToolbar-Search-Textbox").value + "&submit=Submit";
+        url = host + "/projects/" + currProj + "/search?q=" + document.getElementById("RedmineToolbar-Search-Textbox").value + "&submit=Submit";
 
         // Search what
         if (document.getElementById("RedmineToolbar-Search-What-AllWords").getAttribute("checked") == "true")
