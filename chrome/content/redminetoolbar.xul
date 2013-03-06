@@ -25,7 +25,7 @@
                      label="&redminetoolbar.button.mypage.label;" oncommand="RedmineToolbar.loadPage('MYPAGE');" />
       <toolbarseparator />
       <toolbarbutton id="RedmineToolbar-Overview-Button" tooltiptext="&redminetoolbar.tooltip.projects;"
-                     label="&redminetoolbar.button.projects.label;" oncommand="RedmineToolbar.loadPage('PROJECT');" />
+                     label="&redminetoolbar.button.projects.label;" oncommand="RedmineToolbar.loadPage('PROJECTS');" />
       <toolbarbutton id="RedmineToolbar-Overview-Button" tooltiptext="&redminetoolbar.tooltip.overview;"
                      label="&redminetoolbar.button.overview.label;" oncommand="RedmineToolbar.loadPage('OVERVIEW');" />
       <toolbarbutton id="RedmineToolbar-Activity-Button" tooltiptext="&redminetoolbar.tooltip.activity;"
