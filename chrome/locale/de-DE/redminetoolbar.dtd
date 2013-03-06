@@ -9,7 +9,7 @@
 <!ENTITY redminetoolbar.tooltip.overview "Gehe zur Übersicht">
 
 <!ENTITY redminetoolbar.button.projects.label "Projektseite">
-<!ENTITY redminetoolbar.tooltip.overview "Gehe zur Projektseite">
+<!ENTITY redminetoolbar.tooltip.projects "Gehe zur Projektseite">
 
 <!ENTITY redminetoolbar.button.activity.label "Aktivitäten">
 <!ENTITY redminetoolbar.tooltip.activity "Gehe zur Aktivitäten-Seite">
