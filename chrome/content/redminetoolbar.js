@@ -67,6 +67,9 @@ var RedmineToolbar= {
       case 'MYPAGE':
         url = host + "/my/page";
         break;
+       case 'PROJECTS':
+        url = host + "/projects";
+        break;
       case 'OVERVIEW':
         url = host + "/projects/" + currProj;
         urlOld = host + "/projects/show/" + currProj;
@@ -76,9 +79,6 @@ var RedmineToolbar= {
         break;
       case 'NEWISSUE':
         url = host + "/projects/" + currProj + "/issues/new";
-        break;
-      case 'NEWS':
-        url = host + "/projects/" + currProj + "/news";
         break;
       case 'DOCS':
         url = host + "/projects/" + currProj + "/documents";
