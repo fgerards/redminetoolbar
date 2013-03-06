@@ -341,12 +341,10 @@ var RedmineToolbar= {
            url += "&wiki_pages=1";
         if (document.getElementById("RedmineToolbar-Search-Condition-Issues").getAttribute("checked") == "true")
            url += "&issues=1";
-        if (document.getElementById("RedmineToolbar-Search-Condition-Changesets").getAttribute("checked") == "true")
-           url += "&changesets=1";
         if (document.getElementById("RedmineToolbar-Search-Condition-Messages").getAttribute("checked") == "true")
            url += "&messages=1";
-        if (document.getElementById("RedmineToolbar-Search-Condition-News").getAttribute("checked") == "true")
-           url += "&news=1";
+        if (document.getElementById("RedmineToolbar-Search-Condition-Files").getAttribute("checked") == "true")
+           url += "&files=1";
 
         RedmineToolbar.loadUrl(url);
     }
