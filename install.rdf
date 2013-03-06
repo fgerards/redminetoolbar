@@ -2,7 +2,7 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>redminetoolbar@mpietsch.com</em:id>
+    <em:id>frank@f03.eu</em:id>
     <em:version>0.8.3-patched</em:version>
     <em:type>2</em:type>
     <em:targetApplication>
